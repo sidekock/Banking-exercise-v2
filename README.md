@@ -38,15 +38,16 @@ Follow these steps to open the project in IntelliJ IDEA and set up JUnit for tes
 1. Open IntelliJ IDEA.
 2. Select **Open** from the welcome screen.
 3. Navigate to the folder containing this project and open it.
+4. If needed select an SDK
 
 ### Step 2: Set Up JUnit
 
 To run the tests, JUnit must be added as a library.
 
-1. Right-click on the **src** folder and select **Add Framework Support...**.
-2. Choose **JUnit** and click **OK**.
-   - If prompted, select to download JUnit 4 as this project uses JUnit 4 annotations (e.g., `@Test`, `@Before`).
-3. After JUnit is added, you should see a folder `External Libraries` with `JUnit` listed under it.
+1. Go to the BankTest.java file in the IDE
+2. Expand the imported modules
+3. Place the cursor on junit and press Alt + Enter
+4. Select 'Add 'JUnit4' to class path', then select OK.
 
 ### Step 3: Run the Tests
 

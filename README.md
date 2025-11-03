@@ -5,6 +5,8 @@ This project is designed to help students practice Java programming, object-orie
 
 ## Project Structure
 
+sohclmqsncis wvhfvhcl,she
+
 The project contains the following main classes:
 
 1. **Bank**: Manages clients and their accounts.
